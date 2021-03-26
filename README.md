@@ -1,5 +1,6 @@
 # Bioinformatics
 
+### Project 1
 #### Steps followed
 1. Human genome file is huge around 3gb. To extract the sequence by reading this file would be time consuming.
 2. Extracted the sequence for a specific chromosome in to temporary fasta file.
@@ -23,3 +24,20 @@
 Output Format:
 >name:name2 <br>
 Protein sequence
+
+### Project 2
+#### Steps followed
+1. We have fragments (reads) of a dna sequence in a fasta file. Read the fasta file and collect all the reads in to a list.
+2. First derive the individual reads that have overlaps between them.
+3. Gather such reads together to create a consensus out of them. In this step, we create the shortest path for all the reads that have overlaps between them.
+4. Once we have the consensus for the reads from step2, we do this recursively so that we get a final contig which is the shortest path encompassing all the reads without any repetition.
+5. We use Pydna for this task. Below features of Pydna were used
+<br>a. To derive overlaps between reads (multiple)
+<br>b. To assemble reads and find the shortest path.
+6. We use below cases to test the reconstructed sequence
+<br>a. Reconstructed sequence should cover every read from the input file. We validate every read, if it is a substring of the reconstructed sequence.
+<br>b. Reconstructed sequence should not have repetitions. We find how many times a read exists in the reconstructed sequence. Each read should exist only once.
+7. Write the reconstructed sequence in to an output file in the below format.
+
+">reconstructed genome sequence <br>
+"ouput assembled sequence
