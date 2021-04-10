@@ -1,0 +1,14 @@
+Instructions for Python source files - 
+
+1. Numpy and OS packages are needed.
+
+2. Set the variables path, f1, f2 with appropriate folder path, first file name, second file name respectively.
+
+3. Run the files
+
+Instructions for Jupyter notebooks - 
+
+1. Numy, OS, Biopython packages are needed.
+2. We used biopython to test our logic. ﻿﻿
+3. To avoid biopython, please comment Biopython relevant packages and avoid running the 'Testing' cell.
+4. Instructions are mentioned in the notebook how to proceed.
