@@ -1,0 +1,8 @@
+/mnt/c/Users/pmspr/Documents/HS/MS/Sem 4/EECS 730/Bioinformatics/Project 4/Docs/AAA.hmm
+/mnt/c/Users/pmspr/Documents/HS/MS/Sem 4/EECS 730/Bioinformatics/Project 4/Docs/AAA.fa
+
+To run hmmalign - 
+./hmmalign '/mnt/c/Users/pmspr/Documents/HS/MS/Sem 4/EECS 730/Bioinformatics/Project 4/Docs/AAA.hmm' '/mnt/c/Users/pmspr/Documents/HS/MS/Sem 4/EECS 730/Bioinformatics/Project 4/Docs/AAA.fa'
+
+To run hmmsearch - 
+./hmmsearch '/mnt/c/Users/pmspr/Documents/HS/MS/Sem 4/EECS 730/Bioinformatics/Project 4/Docs/AAA.hmm' '/mnt/c/Users/pmspr/Documents/HS/MS/Sem 4/EECS 730/Bioinformatics/Project 4/Docs/AAA.fa'
