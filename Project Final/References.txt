@@ -1,0 +1,10 @@
+
+[1]https://en.wikipedia.org/wiki/Metagenomics
+[2]https://arxiv.org/ftp/arxiv/papers/1911/1911.11304.pdf
+[3]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869604/
+[4]https://www.sdstate.edu/sites/default/files/Metagenomics%20and%20Metatranscriptomics.pdf
+[5]https://www.biorxiv.org/content/10.1101/307157v1.full.pdf
+[6]http://users.metu.edu.tr/bicgen/research/envt.html
+[7]http://www.actabp.pl/pdf/1_2015/151.pdf
+[8]https://www.researchgate.net/publication/316740956_An_introduction_to_metagenomic_data_generation_analysis_visualization_and_interpretation
+[9]https://blog.microbiomeinsights.com/16s-rrna-sequencing-vs-shotgun-metagenomic-sequencing
