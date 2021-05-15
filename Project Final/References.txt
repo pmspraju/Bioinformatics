@@ -8,3 +8,7 @@
 [7]http://www.actabp.pl/pdf/1_2015/151.pdf
 [8]https://www.researchgate.net/publication/316740956_An_introduction_to_metagenomic_data_generation_analysis_visualization_and_interpretation
 [9]https://blog.microbiomeinsights.com/16s-rrna-sequencing-vs-shotgun-metagenomic-sequencing
+[10] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4839964/
+[11] https://www.labome.com/method/RNA-Extraction.html
+[12] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148917/
+[13] https://www.cd-genomics.com/the-principles-workflow-and-applications-of-metatranscriptomic-sequencing.html
